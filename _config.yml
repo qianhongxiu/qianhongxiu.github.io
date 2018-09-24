@@ -1,5 +1,5 @@
 deploy: 
   type: git
-  repo: git@github.com:mocorochio/micorochio.github.io.git
+  repo: git@github.com:qianhongxiu/qianhongxiu.github.io.git
   branch: master
   message: '站点更新:{{now("YYYY-MM-DD HH/mm/ss")}}'
